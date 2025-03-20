@@ -8,4 +8,5 @@ This project implements a machine learning model to detect fraudulent credit car
 📊 Exploratory Data Analysis (EDA)
 🧠 Machine Learning Model (Logistic Regression, Random Forest, etc.)
 ✅ Accuracy Evaluation with Precision/Recall
+
 🚀 Tech Stack: Python, Pandas, Scikit-learn, Matplotlib
